@@ -1,0 +1,1 @@
+API REST Catálogo Produto Categoria com Inclusão dos Testes Automatizados, JUnit, Testes em Repositories, Services, Resources, Testes de Integração, Mock de Dependências com Mockito e MockBean, além das Assertions.
